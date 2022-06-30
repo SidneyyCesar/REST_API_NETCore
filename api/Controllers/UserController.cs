@@ -1,6 +1,5 @@
-using application.Models.InputModels;
 using application.Models.ViewModels;
-using application.Services.Users;
+using application.Services.Interfaces;
 using Microsoft.AspNetCore.Mvc;
 
 namespace api.Controllers;

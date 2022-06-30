@@ -1,27 +1,19 @@
-using application.Services.Users;
-using IoC.DI;
+using api;
+using Autofac.Extensions.DependencyInjection;
 
-var builder = WebApplication.CreateBuilder(args);
-
-builder.Services.AddControllers();
-builder.Services.AddEndpointsApiExplorer();
-builder.Services.AddSwaggerGen();
-
-// Startup.ConfigureDependenceInjection(builder.Services);
-ConfigurationIOC.Load(builder.Services);
-
-var app = builder.Build();
-
-if (app.Environment.IsDevelopment())
+namespace RestApiModeloDDD.API
 {
-    app.UseSwagger();
-    app.UseSwaggerUI();
+    public class Program
+    {
+        public static void Main(string[] args)
+        {
+            CreateHostBuilder(args).Build().Run();
+        }
+
+        public static IHostBuilder CreateHostBuilder(string[] args) =>
+            Host.CreateDefaultBuilder(args)
+              .UseServiceProviderFactory(new AutofacServiceProviderFactory())
+              .ConfigureWebHostDefaults(webBuilder => { webBuilder.UseStartup<Startup>();
+            });
+    }
 }
-
-app.UseHttpsRedirection();
-
-app.UseAuthorization();
-
-app.MapControllers();
-
-app.Run();

@@ -7,7 +7,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace infra.Repository.Persistence
 {
-  public class RepositoryBase<T>: IRepositoryBase<T> where T: class
+  public abstract class RepositoryBase<T>: IRepositoryBase<T> where T: class
     {
         private readonly SqlContext sqlContext;
 
@@ -16,7 +16,7 @@ namespace infra.Repository.Persistence
             this.sqlContext = sqlContext;
         }
 
-    public async Task Add(T entity)
+    public virtual async Task Add(T entity)
     {
       try
       {
@@ -29,7 +29,7 @@ namespace infra.Repository.Persistence
       }
     }
 
-    public IEnumerable<T> GetAll()
+    public virtual IEnumerable<T> GetAll()
     {
       try
       {
@@ -41,12 +41,12 @@ namespace infra.Repository.Persistence
       }
     }
 
-    public Task<T> GetById(int id)
+    public virtual Task<T> GetById(int id)
     {
       throw new System.NotImplementedException();
     }
 
-    public async Task Remove(T entity)
+    public virtual async Task Remove(T entity)
     {
       try
       {
@@ -59,7 +59,7 @@ namespace infra.Repository.Persistence
       }
     }
 
-    public async Task Update(T entity)
+    public virtual async Task Update(T entity)
     {
       try
       {

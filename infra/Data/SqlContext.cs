@@ -11,7 +11,7 @@ namespace infra.Data
         }
 
         public SqlContext(DbContextOptions<SqlContext> options): base(options) { }
-        public DbSet<User> Usuario { get; set; }
+        public DbSet<Users> Usuario { get; set; }
 
         // public override int SaveChanges()
         // {

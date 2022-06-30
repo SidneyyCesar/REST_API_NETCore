@@ -7,8 +7,8 @@ namespace application.Mapper.Interfaces.IMapper
 {
     public interface IMapperUser
     {
-        User MatterDtoToEntity(UserInputModel userModel);
-        IEnumerable<UserViewModel> MatterListToView(IEnumerable<User> users);
-        UserViewModel MapperEntityToViewModel(User user);
+        Users MatterDtoToEntity(UserInputModel userModel);
+        IEnumerable<UserViewModel> MatterListToView(IEnumerable<Users> users);
+        UserViewModel MapperEntityToViewModel(Users user);
     }
 }

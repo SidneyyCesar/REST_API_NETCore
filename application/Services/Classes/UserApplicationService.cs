@@ -3,7 +3,7 @@ using System.Threading.Tasks;
 using application.Mapper.Interfaces.IMapper;
 using application.Models.InputModels;
 using application.Models.ViewModels;
-using application.Services.Users;
+using application.Services.Interfaces;
 using domain.Core.Interfaces.Services;
 
 namespace application.Services.Classes

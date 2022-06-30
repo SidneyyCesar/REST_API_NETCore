@@ -2,9 +2,8 @@ using System.Collections.Generic;
 using System.Threading.Tasks;
 using application.Models.InputModels;
 using application.Models.ViewModels;
-using domain.Domain.Entities;
 
-namespace application.Services.Users
+namespace application.Services.Interfaces
 {
     public interface IUserApplicationService
     {

@@ -6,11 +6,11 @@ using application.Mapper.Interfaces.IMapper;
 
 namespace application.Interfaces.Mapper.Conversors
 {
-  public class MatterUser : IMapperUser
+  public class MapperUser : IMapperUser
   {
     IEnumerable<UserViewModel> userViewModelList = new List<UserViewModel>();
 
-    public UserViewModel MapperEntityToViewModel(User user)
+    public UserViewModel MapperEntityToViewModel(Users user)
     {
         UserViewModel userModelView = new UserViewModel()
         {
@@ -21,9 +21,9 @@ namespace application.Interfaces.Mapper.Conversors
         return userModelView;
     }
 
-    public User MatterDtoToEntity(UserInputModel userModel)
+    public Users MatterDtoToEntity(UserInputModel userModel)
     {
-      User user = new User()
+      var user = new Users()
       {
         id = userModel.id,
         email = userModel.email
@@ -32,7 +32,7 @@ namespace application.Interfaces.Mapper.Conversors
       return user;
     }
 
-    public IEnumerable<UserViewModel> MatterListToView(IEnumerable<User> users)
+    public IEnumerable<UserViewModel> MatterListToView(IEnumerable<Users> users)
     {
       var userListView = new List<UserViewModel>();
 

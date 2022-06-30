@@ -4,7 +4,7 @@ using domain.Domain.Entities;
 
 namespace domain.Services
 {
-    public class UserService: ServiceBase<User>, IUserService
+    public class UserService: ServiceBase<Users>, IUserService
     {
         private readonly IUserRepository userRepository;
 
