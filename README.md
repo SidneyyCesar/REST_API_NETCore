@@ -4,8 +4,6 @@
 
 Construção de uma REST API <br />
 
-<br />
-
 * .NET Core 3.1
 * RestFull
 * C#
