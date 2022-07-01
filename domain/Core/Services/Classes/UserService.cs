@@ -1,8 +1,8 @@
 using domain.Core.Interfaces.Repositories;
 using domain.Core.Interfaces.Services;
-using domain.Domain.Entities;
+using domain.Domain.Core;
 
-namespace domain.Services
+namespace domain.Services.Classes
 {
     public class UserService: ServiceBase<Users>, IUserService
     {

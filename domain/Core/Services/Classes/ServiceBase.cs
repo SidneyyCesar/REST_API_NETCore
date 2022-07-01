@@ -3,7 +3,7 @@ using System.Threading.Tasks;
 using domain.Core.Interfaces.Repositories;
 using domain.Core.Interfaces.Services;
 
-namespace domain.Services
+namespace domain.Services.Classes
 {
   public class ServiceBase<T> : IServiceBase<T> where T : class
   {

@@ -1,4 +1,4 @@
-namespace domain.Enums
+namespace domain.Core.Services.Models.Enums
 {        
     public enum UserStatus {
         Ativo = 0,
