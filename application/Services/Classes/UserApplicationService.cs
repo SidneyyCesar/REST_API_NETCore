@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 using System.Threading.Tasks;
-using application.Mapper.Interfaces.IMapper;
+using application.Mapper.Interfaces;
 using application.Models.InputModels;
 using application.Models.ViewModels;
 using application.Services.Interfaces;
@@ -39,6 +39,11 @@ namespace application.Services.Classes
     {
       var user = userMapper.MatterDtoToEntity(userInput);
       return userService.Add(user);
+    }
+
+    public Task Save(UserInputModel userViewModel)
+    {
+      throw new System.NotImplementedException();
     }
   }
 }

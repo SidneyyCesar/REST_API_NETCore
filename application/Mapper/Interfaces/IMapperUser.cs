@@ -1,9 +1,9 @@
-using domain.Domain.Entities;
 using System.Collections.Generic;
 using application.Models.ViewModels;
 using application.Models.InputModels;
+using domain.Domain.Core;
 
-namespace application.Mapper.Interfaces.IMapper
+namespace application.Mapper.Interfaces
 {
     public interface IMapperUser
     {

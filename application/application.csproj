@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk" ToolsVersion="15.0">
 
   <ItemGroup>
-    <ProjectReference Include="..\infra\infra.csproj" />
+    <ProjectReference Include="..\infra\Persistence\infra.csproj" />
   </ItemGroup>
 
   <PropertyGroup>

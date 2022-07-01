@@ -11,5 +11,6 @@ namespace application.Services.Interfaces
         IEnumerable<UserViewModel> GetAll();
         Task<UserViewModel> GetById(int id);
         Task Remove(int id);
+        Task Save (UserInputModel userViewModel);
     }
 }

@@ -1,10 +1,11 @@
-using System.Collections.Generic;
-using domain.Domain.Entities;
-using application.Models.ViewModels;
-using application.Models.InputModels;
-using application.Mapper.Interfaces.IMapper;
 
-namespace application.Interfaces.Mapper.Conversors
+using System.Collections.Generic;
+using application.Mapper.Interfaces;
+using application.Models.InputModels;
+using application.Models.ViewModels;
+using domain.Domain.Core;
+
+namespace application.Mapper.Conversors
 {
   public class MapperUser : IMapperUser
   {
