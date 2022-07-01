@@ -2,14 +2,7 @@ using Autofac;
 using infra.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.OpenApi.Models;
-using application.Services.Classes;
-using domain.Services;
-using infra.Repository.Persistence;
-using application.Mapper.Interfaces.IMapper;
-using application.Services.Interfaces;
-using domain.Core.Interfaces.Services;
-using domain.Core.Interfaces.Repositories;
-using application.Interfaces.Mapper.Conversors;
+using CrossCutting;
 
 namespace api
 {
@@ -24,13 +17,7 @@ namespace api
 
         public void ConfigureContainer(ContainerBuilder builder) 
         {
-            builder.RegisterType<UserApplicationService>().As<IUserApplicationService>();
-            builder.RegisterType<UserService>().As<IUserService>();
-            builder.RegisterType<UserRepository>().As<IUserRepository>();
-            builder.RegisterType<MapperUser>().As<IMapperUser>();
-
-            
-            // builder.RegisterModule(new ModuleIOC());
+            builder.RegisterModule(new ContainerRegister());
         }
         
         public void ConfigureServices(IServiceCollection services)
@@ -39,9 +26,8 @@ namespace api
 
             services.AddDbContext<SqlContext>(options => options.UseSqlServer(connection));
             services.AddControllers();
-            services.AddSwaggerGen(c =>
-            {
-                c.SwaggerDoc("v1", new OpenApiInfo { Title = "API Model DDD", Version = "v1" });
+            services.AddSwaggerGen(c => {
+                c.SwaggerDoc("v1", new OpenApiInfo { Title = "Documentação", Version = "v1" });
             });   
         }
         
@@ -54,7 +40,7 @@ namespace api
             app.UseSwagger();
 
             app.UseSwaggerUI(c => {
-                c.SwaggerEndpoint("/swagger/v1/swagger.json", "API Model DDD");
+                c.SwaggerEndpoint("/swagger/v1/swagger.json", "Documentação");
             });
 
             app.UseHttpsRedirection();

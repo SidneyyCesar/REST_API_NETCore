@@ -1,11 +1,12 @@
+using application.Models.InputModels;
 using application.Models.ViewModels;
 using application.Services.Interfaces;
 using Microsoft.AspNetCore.Mvc;
 
 namespace api.Controllers;
 
-[ApiController]
-[Route("api/usuarios")]
+[ApiController()]
+[Route("usuarios/")]
 public class UserController : ControllerBase
 {
     private readonly ILogger<UserController> logger;
@@ -17,11 +18,11 @@ public class UserController : ControllerBase
         this.userService = userService;
     }
 
-    // [HttpGet("{id}")]
-    // public async Task<UserViewModel> Get(int id)
-    // {
-    //    return await this.userService.Select(id);
-    // }
+    [HttpGet("{id}")]
+    public async Task<UserViewModel> Get(int id)
+    {
+       return await this.userService.GetById(id);
+    }
 
     [HttpGet]
     public IEnumerable<UserViewModel> List()
@@ -29,15 +30,15 @@ public class UserController : ControllerBase
         return this.userService.GetAll();
     }
 
-    // [HttpPost]
-    // public async Task Save(UserInputModel user)
-    // {
-    //     await this.userService.Save(user);
-    // }
+    [HttpPost]
+    public async Task Save(UserInputModel user)
+    {
+        await this.userService.Save(user);
+    }
     
-    // [HttpDelete]
-    // public async Task Delete(int id)
-    // {
-    //     await this.userService.Delete(id);
-    // }
+    [HttpDelete]
+    public async Task Delete(int id)
+    {
+        await this.userService.Remove(id);
+    }
 }
