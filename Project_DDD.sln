@@ -9,9 +9,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "application", "application\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "domain", "domain\domain.csproj", "{F5F404BE-AE42-4D19-9040-E91928A1D5C2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infra", "infra\Infra.csproj", "{92313313-0EB6-4E71-918C-41BDDB122944}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infra", "infra\Persistence\Infra.csproj", "{92313313-0EB6-4E71-918C-41BDDB122944}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IoC", "IoC\IoC.csproj", "{BB891711-4CAE-499A-8061-F1BC98DEC6B1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IoC", "Infra\CrossCutting\Ioc.csproj", "{BB891711-4CAE-499A-8061-F1BC98DEC6B1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
