@@ -25,8 +25,8 @@ executar migration: -  <b>dotnet ef database update</b><name> <br />
 Como esta aplicação utiliza DDD, a camada de infra (persistencia) precisa saber qual é a connectionstring da aplicação, que por sua vez esta definida no appsettings.json da aplicação start, portando precisamos executar os comandos do EF através da api, indicando a infra, da seguinte forma<br />
 
 Criar nova migration<br />
-dotnet ef --startup-project .\api\api.csproj --project .\infra\Persistence\Infra.csproj  migrations add "update users table"<br />
-
+dotnet ef --startup-project .\api\api.csproj --project .\infra\Persistence\Infra.csproj  migrations add migration_inicial<br />
+ 
 Executar migration <br />
 dotnet ef --startup-project .\api\api.csproj --project .\infra\Persistence\Infra.csproj database update
 

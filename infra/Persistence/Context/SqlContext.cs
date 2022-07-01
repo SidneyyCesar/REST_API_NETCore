@@ -1,7 +1,5 @@
 using domain.Domain.Core;
 using Microsoft.EntityFrameworkCore;
-using System;
-using System.Linq;
 
 namespace infra.Data
 {
@@ -10,22 +8,19 @@ namespace infra.Data
         public SqlContext() { }
 
         public SqlContext(DbContextOptions<SqlContext> options): base(options) { }
+     
         public DbSet<Users> Usuario { get; set; }
 
-        public override int SaveChanges()
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            foreach (var entry in ChangeTracker.Entries().Where(entry => entry.Entity.GetType().GetProperty("DataCadastro") != null))
-            {
-                if (entry.State == EntityState.Added)
-                {
-                    entry.Property("DataCadastro").CurrentValue = DateTime.Now;
-                }
-                if (entry.State == EntityState.Modified)
-                {
-                    entry.Property("DataCadastro").IsModified = false;
-                }
-            }
-            return base.SaveChanges();
+            var userModel = modelBuilder.Entity<Users>();
+           
+            userModel.Property(p => p.email).HasMaxLength(200);
+            userModel.Property(p => p.name).HasMaxLength(100);
+            userModel.Property(p => p.password).HasMaxLength(50);
+            userModel.Property(p => p.status).HasMaxLength(1);
+
+            base.OnModelCreating(modelBuilder);
         }
     }
 }

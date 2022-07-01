@@ -5,7 +5,6 @@ using application.Services.Interfaces;
 using Autofac;
 using domain.Core.Interfaces.Repositories;
 using domain.Core.Interfaces.Services;
-using domain.Services;
 using domain.Services.Classes;
 using infra.Repository.Persistence;
 
