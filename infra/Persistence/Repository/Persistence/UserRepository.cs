@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 using domain.Core.Interfaces.Repositories;
-using domain.Domain.Entities;
+using domain.Domain.Core;
 using infra.Data;
 
 namespace infra.Repository.Persistence
