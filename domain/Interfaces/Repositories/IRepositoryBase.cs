@@ -8,7 +8,7 @@ namespace domain.Core.Interfaces.Repositories
         Task Add (T entity);
         Task Update(T entity);
         Task Remove (T entity);
-        IEnumerable<T> GetAll();
+        Task<IEnumerable<T>> GetAll();
         Task<T> GetById(int id);
     }
 }

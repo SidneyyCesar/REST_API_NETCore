@@ -19,31 +19,27 @@ namespace application.Services.Classes
         this.userMapper = userMapper;
     }
 
-    public IEnumerable<UserViewModel> GetAll()
+    public async Task<IEnumerable<UserViewModel>> GetAll()
     {
-        var userList = userService.GetAll();
+        var userList = await userService.GetAll();
         return userMapper.MatterListToView(userList);
     }
-    public Task Remove(int id)
-    {
-      return userService.Remove(id);
-    }
-
     public async Task<UserViewModel> GetById(int id)
     {
       var userView = await userService.GetById(id);
       return userMapper.MapperEntityToViewModel(userView);
     }
 
-    public Task Add(UserInputModel userInput)
+    public async Task Save(UserInputModel userViewModel)
     {
-      var user = userMapper.MatterDtoToEntity(userInput);
-      return userService.Add(user);
+      var user = userMapper.MatterInputViewToEntity(userViewModel);
+      await userService.Save(user);
+    }
+    
+    public Task Remove(int id)
+    {
+      return userService.Remove(id);
     }
 
-    public Task Save(UserInputModel userViewModel)
-    {
-      throw new System.NotImplementedException();
-    }
   }
 }

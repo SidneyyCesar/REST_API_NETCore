@@ -22,12 +22,15 @@ namespace application.Mapper.Conversors
         return userModelView;
     }
 
-    public Users MatterDtoToEntity(UserInputModel userModel)
+    public Users MatterInputViewToEntity(UserInputModel userModel)
     {
       var user = new Users()
       {
         id = userModel.id,
-        email = userModel.email
+        name = userModel.name,
+        email = userModel.email,
+        password = userModel.password,
+        status = userModel.status
       };
 
       return user;
@@ -42,7 +45,9 @@ namespace application.Mapper.Conversors
         userListView.Add(new UserViewModel()
         {
             id = u.id,
-            name = u.name
+            name = u.name,
+            email = u.email,
+            status = u.status
         });
       }
 

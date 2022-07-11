@@ -1,6 +1,8 @@
+using domain.Interfaces.Repositories;
+
 namespace domain.Domain.Core
 {
-    public class Users
+    public class Users: IEntity
     {
         public int id { get; set; }
         public string name { get; set; }

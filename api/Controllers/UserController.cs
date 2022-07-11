@@ -25,9 +25,9 @@ public class UserController : ControllerBase
     }
 
     [HttpGet]
-    public IEnumerable<UserViewModel> List()
+    public async Task<IEnumerable<UserViewModel>> List()
     {
-        return this.userService.GetAll();
+        return await this.userService.GetAll();
     }
 
     [HttpPost]
