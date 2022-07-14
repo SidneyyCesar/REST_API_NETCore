@@ -9,25 +9,23 @@ namespace api.Controllers;
 [Route("usuarios/")]
 public class UserController : ControllerBase
 {
-    private readonly ILogger<UserController> logger;
     private readonly IUserApplicationService userService;
 
-    public UserController(ILogger<UserController> logger, IUserApplicationService userService)
+    public UserController(IUserApplicationService userService)
     {
-        this.logger = logger;
         this.userService = userService;
-    }
-
-    [HttpGet("{id}")]
-    public async Task<UserViewModel> Get(int id)
-    {
-       return await this.userService.GetById(id);
     }
 
     [HttpGet]
     public async Task<IEnumerable<UserViewModel>> List()
     {
         return await this.userService.GetAll();
+    }
+
+    [HttpGet("{id}")]
+    public async Task<UserViewModel> Get(int id)
+    {
+        return await this.userService.GetById(id);
     }
 
     [HttpPost]

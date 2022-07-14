@@ -1,8 +1,10 @@
 using Autofac;
 using infra.Data;
 using Microsoft.EntityFrameworkCore;
+using Serilog;
 using Microsoft.OpenApi.Models;
 using CrossCutting;
+using Serilog.Context;
 
 namespace api
 {
@@ -14,15 +16,12 @@ namespace api
         {
             Configuration = configuration;
         }
-
-        public void ConfigureContainer(ContainerBuilder builder) 
-        {
-            builder.RegisterModule(new ContainerRegister());
-        }
         
         public void ConfigureServices(IServiceCollection services)
         {   
-            var connection = Configuration["connectionString:SqlServer"];
+            var connection = Configuration["connectionString:Database"];
+
+            services.ConfigureDI();
 
             services.AddDbContext<SqlContext>(options => options.UseSqlServer(connection));
             services.AddControllers();
@@ -37,6 +36,7 @@ namespace api
             {
                 app.UseDeveloperExceptionPage();
             }
+           
             app.UseSwagger();
 
             app.UseSwaggerUI(c => {
@@ -47,6 +47,8 @@ namespace api
 
             app.UseRouting();
 
+            app.UseMiddleware<LogUserNameMiddleware>();
+
             app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>
@@ -54,5 +56,22 @@ namespace api
                 endpoints.MapControllers();
             });
         }
+    }
+}
+
+public class LogUserNameMiddleware
+{
+    private readonly RequestDelegate next;
+
+    public LogUserNameMiddleware(RequestDelegate next)
+    {
+        this.next = next;
+    }
+
+    public Task Invoke(HttpContext context)
+    {
+        Serilog.Context.LogContext.PushProperty("UserName", "context.User.Identity.Name");
+
+        return next(context);
     }
 }
