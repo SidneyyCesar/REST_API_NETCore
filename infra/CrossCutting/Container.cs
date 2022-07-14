@@ -2,22 +2,22 @@ using application.Mapper.Conversors;
 using application.Mapper.Interfaces;
 using application.Services.Classes;
 using application.Services.Interfaces;
-using Autofac;
 using domain.Core.Interfaces.Repositories;
 using domain.Core.Interfaces.Services;
 using domain.Services.Classes;
 using infra.Repository.Persistence;
+using Microsoft.Extensions.DependencyInjection;
 
 namespace CrossCutting
 {
-  public class ContainerRegister : Module
+  public static class ContainerRegister
   {
-    protected override void Load(ContainerBuilder builder) 
+    public static void ConfigureDI(this IServiceCollection builder) 
     {
-        builder.RegisterType<UserApplicationService>().As<IUserApplicationService>();
-        builder.RegisterType<UserService>().As<IUserService>();
-        builder.RegisterType<UserRepository>().As<IUserRepository>();
-        builder.RegisterType<MapperUser>().As<IMapperUser>();
+        builder.AddTransient<IUserApplicationService, UserApplicationService>();
+        builder.AddTransient<IUserService, UserService>();
+        builder.AddTransient<IUserRepository, UserRepository>();
+        builder.AddTransient<IMapperUser, MapperUser>();
     }
   }
 }

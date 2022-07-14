@@ -4,7 +4,6 @@
     <ProjectReference Include="..\..\domain\domain.csproj" />
     <ProjectReference Include="..\..\infra\Persistence\Infra.csproj" />
     <ProjectReference Include="..\..\application\application.csproj" />
-    <PackageReference Include="Autofac" Version="5.1.4" />
   </ItemGroup>
 
   <PropertyGroup>
