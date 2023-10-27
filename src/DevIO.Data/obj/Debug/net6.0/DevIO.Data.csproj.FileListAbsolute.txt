@@ -1,0 +1,30 @@
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Data\bin\Debug\net6.0\DevIO.Data.deps.json
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Data\bin\Debug\net6.0\DevIO.Data.dll
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Data\bin\Debug\net6.0\DevIO.Data.pdb
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Data\bin\Debug\net6.0\DevIO.Business.dll
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Data\bin\Debug\net6.0\DevIO.Business.pdb
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.csproj.AssemblyReference.cache
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.AssemblyInfoInputs.cache
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.AssemblyInfo.cs
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.csproj.CoreCompileInputs.cache
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.csproj.CopyComplete
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.dll
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Data\obj\Debug\net6.0\refint\DevIO.Data.dll
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.pdb
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Data\obj\Debug\net6.0\ref\DevIO.Data.dll
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Data\bin\Debug\net6.0\DevIO.Data.deps.json
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Data\bin\Debug\net6.0\DevIO.Data.dll
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Data\bin\Debug\net6.0\DevIO.Data.pdb
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Data\bin\Debug\net6.0\DevIO.Business.dll
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Data\bin\Debug\net6.0\DevIO.Business.pdb
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.csproj.AssemblyReference.cache
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.AssemblyInfoInputs.cache
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.AssemblyInfo.cs
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.csproj.CoreCompileInputs.cache
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.csproj.CopyComplete
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.dll
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Data\obj\Debug\net6.0\refint\DevIO.Data.dll
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.pdb
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Data\obj\Debug\net6.0\ref\DevIO.Data.dll

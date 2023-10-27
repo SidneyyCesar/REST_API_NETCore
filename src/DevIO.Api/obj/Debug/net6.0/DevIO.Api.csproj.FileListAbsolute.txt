@@ -1,0 +1,272 @@
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\appsettings.json
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\appsettings.Production.Development.json
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\appsettings.Production.json
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\appsettings.Staging.json
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\DevIO.Api.staticwebassets.runtime.json
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\DevIO.Api.exe
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\DevIO.Api.deps.json
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\DevIO.Api.runtimeconfig.json
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\DevIO.Api.dll
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\DevIO.Api.pdb
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\HealthChecks.SqlServer.dll
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\HealthChecks.UI.dll
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\HealthChecks.UI.Client.dll
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\HealthChecks.UI.Core.dll
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\HealthChecks.UI.SqlServer.Storage.dll
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\AutoMapper.dll
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\Azure.Core.dll
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\Azure.Identity.dll
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\Elmah.Io.AspNetCore.dll
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\Elmah.Io.AspNetCore.HealthChecks.dll
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\Elmah.Io.Client.dll
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\Elmah.Io.Extensions.Logging.dll
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\FluentValidation.dll
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\Fractions.dll
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\Humanizer.dll
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\IdentityModel.dll
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\IdentityModel.OidcClient.dll
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\KubernetesClient.dll
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.Design.dll
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\Microsoft.Rest.ClientRuntime.dll
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\Prometheus.NetCore.dll
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\Prometheus.NetStandard.dll
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\YamlDotNet.dll
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\DevIO.Business.dll
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\DevIO.Data.dll
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\DevIO.Business.pdb
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\bin\Debug\net6.0\DevIO.Data.pdb
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\obj\Debug\net6.0\DevIO.Api.csproj.AssemblyReference.cache
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\obj\Debug\net6.0\DevIO.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\obj\Debug\net6.0\DevIO.Api.AssemblyInfoInputs.cache
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\obj\Debug\net6.0\DevIO.Api.AssemblyInfo.cs
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\obj\Debug\net6.0\DevIO.Api.csproj.CoreCompileInputs.cache
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\obj\Debug\net6.0\DevIO.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\obj\Debug\net6.0\DevIO.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\obj\Debug\net6.0\staticwebassets\msbuild.DevIO.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.DevIO.Api.props
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DevIO.Api.props
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DevIO.Api.props
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\obj\Debug\net6.0\scopedcss\bundle\DevIO.Api.styles.css
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\obj\Debug\net6.0\DevIO.Api.csproj.CopyComplete
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\obj\Debug\net6.0\DevIO.Api.dll
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\obj\Debug\net6.0\refint\DevIO.Api.dll
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\obj\Debug\net6.0\DevIO.Api.pdb
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\obj\Debug\net6.0\DevIO.Api.genruntimeconfig.cache
+C:\Developer\Courses\Desenvolvedor.IO\DB2C2636-0FAD-4369-A195-0E759C2E5FD3-02 - API Completa\01 MinhaAPICompleta 6.0\src\DevIO.Api\obj\Debug\net6.0\ref\DevIO.Api.dll
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\appsettings.json
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\appsettings.Production.Development.json
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\appsettings.Production.json
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\appsettings.Staging.json
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\DevIO.Api.staticwebassets.runtime.json
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\DevIO.Api.exe
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\DevIO.Api.deps.json
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\DevIO.Api.runtimeconfig.json
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\DevIO.Api.dll
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\DevIO.Api.pdb
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\HealthChecks.SqlServer.dll
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\HealthChecks.UI.dll
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\HealthChecks.UI.Client.dll
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\HealthChecks.UI.Core.dll
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\HealthChecks.UI.SqlServer.Storage.dll
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\AutoMapper.dll
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\Azure.Core.dll
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\Azure.Identity.dll
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\Elmah.Io.AspNetCore.dll
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\Elmah.Io.AspNetCore.HealthChecks.dll
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\Elmah.Io.Client.dll
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\Elmah.Io.Extensions.Logging.dll
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\FluentValidation.dll
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\Fractions.dll
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\Humanizer.dll
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\IdentityModel.dll
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\IdentityModel.OidcClient.dll
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\KubernetesClient.dll
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.Design.dll
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\Microsoft.Rest.ClientRuntime.dll
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\Prometheus.NetCore.dll
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\Prometheus.NetStandard.dll
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\YamlDotNet.dll
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\DevIO.Business.dll
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\DevIO.Data.dll
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\DevIO.Business.pdb
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\bin\Debug\net6.0\DevIO.Data.pdb
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\obj\Debug\net6.0\DevIO.Api.csproj.AssemblyReference.cache
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\obj\Debug\net6.0\DevIO.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\obj\Debug\net6.0\DevIO.Api.AssemblyInfoInputs.cache
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\obj\Debug\net6.0\DevIO.Api.AssemblyInfo.cs
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\obj\Debug\net6.0\DevIO.Api.csproj.CoreCompileInputs.cache
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\obj\Debug\net6.0\DevIO.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\obj\Debug\net6.0\DevIO.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\obj\Debug\net6.0\staticwebassets\msbuild.DevIO.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.DevIO.Api.props
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DevIO.Api.props
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DevIO.Api.props
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\obj\Debug\net6.0\scopedcss\bundle\DevIO.Api.styles.css
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\obj\Debug\net6.0\DevIO.Api.csproj.CopyComplete
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\obj\Debug\net6.0\DevIO.Api.dll
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\obj\Debug\net6.0\refint\DevIO.Api.dll
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\obj\Debug\net6.0\DevIO.Api.pdb
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\obj\Debug\net6.0\DevIO.Api.genruntimeconfig.cache
+C:\Developer\Courses\Desenvolvedor.IO\REST WebAPI\src\DevIO.Api\obj\Debug\net6.0\ref\DevIO.Api.dll

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "MeDuiXft5l7Nf6Am7P3Rnl8SpR2oj6C7UoZJTaroSZMGo+7Y8h8WhaJdpukE5tHGUBf6VGLtS3qpHN+MNRAMNQ==",
+  "success": true,
+  "projectFilePath": "C:\\Developer\\Courses\\Desenvolvedor.IO\\REST WebAPI\\src\\DevIO.Business\\DevIO.Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\antvs\\.nuget\\packages\\fluentvalidation\\10.3.6\\fluentvalidation.10.3.6.nupkg.sha512",
+    "C:\\Users\\antvs\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.20\\microsoft.windowsdesktop.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\antvs\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.20\\microsoft.netcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\antvs\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.20\\microsoft.aspnetcore.app.ref.6.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
